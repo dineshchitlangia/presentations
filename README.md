@@ -19,7 +19,7 @@ Since its inception as a subproject few years ago, it has come a long way to gra
 This talk will focus on a brief history of Ozone, the progress made thus far, comparisons with HDFS performance, and the road ahead in scaling beyond a billion files in the system.
 
 # My past presentations/talks:
-**1. LINE Developer Meet Japan 2020**
+**1. LINE Developer Meet Japan 2020**   
 Event Link: https://line.connpass.com/event/188176/   
 Video Recording: https://youtu.be/cNsx-BSJcI4?t=290
 
