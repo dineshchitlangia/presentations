@@ -16,7 +16,7 @@ ApacheCon 2021 - https://www.apachecon.com/acah2021/tracks/index.html
 Apache Ozone was initially a subproject under Apache Hadoop that aimed to solve the HDFS scalability challenges.   
 Since its inception as a subproject few years ago, it has come a long way to graduate as an Apache Top Level Project.   
 This talk will focus on a brief history of Ozone, the progress made thus far, comparisons with HDFS performance, and the road ahead in scaling beyond a billion files in the system.
-[Slides for this talk are available here](ApacheCon2021_ Ozone-SOTU.pdf)
+[Slides for this talk are available here](OzoneSOTU.pdf)
 
 **3. LINE Developer Meet Japan 2020**   
 Event Link: https://line.connpass.com/event/188176/   
