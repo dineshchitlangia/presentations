@@ -10,13 +10,18 @@ This talk will present the lessons learnt from the field and will focus on key t
 
 [Slides and collateral are available here](https://github.com/dineshchitlangia/NamenodeScalability)
 
+[Video recording](https://youtu.be/pTn0qu9mVq0)
+
 **2. Apache Ozone - State of the Union, September 2021**         
 ApacheCon 2021 - https://www.apachecon.com/acah2021/tracks/index.html
 
 Apache Ozone was initially a subproject under Apache Hadoop that aimed to solve the HDFS scalability challenges.   
 Since its inception as a subproject few years ago, it has come a long way to graduate as an Apache Top Level Project.   
 This talk will focus on a brief history of Ozone, the progress made thus far, comparisons with HDFS performance, and the road ahead in scaling beyond a billion files in the system.
+
 [Slides for this talk are available here](OzoneSOTU.pdf)
+
+[Video recording](https://youtu.be/O0u4p_PlwDU)
 
 **3. LINE Developer Meet Japan 2020**   
 Event Link: https://line.connpass.com/event/188176/   
