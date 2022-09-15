@@ -3,7 +3,7 @@
 **1. How to contribute to Open Source - HackerRank All Stars Live event, September 2022**      
 This talk is about understanding the basics of Open Source & how to start contirbuting to Open Source.
 
-[Slides and collateral are available here](Hackerrank_All_Star_How_to_Open_Source.pdf)
+[Slides are available here](Hackerrank_All_Star_How_to_Open_Source.pdf)
 
 [Video recording of the session](https://www.linkedin.com/video/event/urn:li:ugcPost:6974031712242561024/)
 
